@@ -15,4 +15,6 @@ const App = () => {
   )
 }
 
+//stateful component
+
 export default App
